@@ -1,0 +1,9 @@
+{
+  "name": "TresComas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "scss": "sass style/scss:style/css --watch"
+  }
+}
